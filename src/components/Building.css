@@ -1,0 +1,34 @@
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #e4e4e4;
+  width: 60%;
+  height: 50%;
+  margin: auto;
+}
+
+th, td {
+  border: 1px solid #e4e4e4;
+  background-color: white;
+  width: 4rem;
+  height: 2rem;
+  padding: 15px;
+  text-align: center;
+}
+
+.sideCol {
+    background-color: transparent;
+    border: 0px;
+}
+
+.floorName {
+  text-align: right;
+  margin-right: 0px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.callBtnTd {
+    margin-left: 0px;
+    text-align: left;
+}

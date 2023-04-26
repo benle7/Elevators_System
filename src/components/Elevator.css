@@ -1,0 +1,10 @@
+
+.redStatus {
+    filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(300deg) contrast(100%) brightness(80%);
+}
+.greenStatus {
+    filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(100deg) contrast(100%) brightness(80%);
+}
+img {
+    width: 30%;
+}

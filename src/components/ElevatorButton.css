@@ -1,0 +1,30 @@
+
+button {
+	border:1px solid #fffff000;
+	border-radius:3px;
+	box-shadow: 0px 1px 0px 0px #adb1ac;
+	height: 60%;
+	width: 70%;
+	line-height: 30%;
+	padding:15px 30px;
+	color:#ffffff;
+	font-size:14px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.callColor {
+    background-color: #2ccc81;
+	color: white;
+}
+
+.waitColor {
+    background-color: red;
+	color:white;
+}
+
+.arriveColor {
+	background-color: transparent;
+	border:1px solid #2ccc81;
+	color: #2ccc81;
+}
